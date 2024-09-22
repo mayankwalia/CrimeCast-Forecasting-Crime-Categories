@@ -1,4 +1,13 @@
 # CrimeCast-Forecasting-Crime-Categories
+[Kaggle Competition Link](https://www.kaggle.com/competitions/crime-cast-forecasting-crime-categories/overview)
+---
+| Accuracy | 0.9592 |
+|:--------:|--------|
+| Rank     | 54/987 |
+
+---
+
+
 In this project, I analyzde a dataset filled with information about crime incidents. I looked at where the incidents happened, details about the victims, and other important factors.
 
 ### Dataset Overview:
